@@ -6,9 +6,9 @@
     "type": "online"
   },
   "server": {
-    "ip": "BoltDodge.aternos.me",
-    "port": 41641,
-    "version": "1.19",
+    "ip": "FFAPVPARENA.aternos.mee",
+    "port": 47822,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Follow to BabyDripLuigi!",
-        "MCC Has To Add Dodgebolt To MCC Island!"
+        "Good Luck In Your PVP"
       ]
     },
     "chat-log": true,
